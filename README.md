@@ -97,7 +97,8 @@ phase2cli contribute -c semaphore-binary-merkle-root-fix
 ```
 * You can either hit enter for randomly, or pick manually and type any letter or number yourself.
 
-<img width="689" height="302" alt="image" src="https://github.com/user-attachments/assets/8830a33c-8e97-4cd1-8b6e-9ca0d7312dd7" />
+<img width="1003" height="411" alt="image" src="https://github.com/user-attachments/assets/961ae8c8-7722-459b-9156-332a4a61191c" />
+
 
 ### Screen commands
 * Minimize screen: `Ctrl`+`A`+`D`
