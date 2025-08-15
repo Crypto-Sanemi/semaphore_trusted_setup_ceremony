@@ -1,0 +1,1 @@
+# semaphore_trusted_setup_ceremony
